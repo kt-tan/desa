@@ -1,0 +1,13 @@
+baseURL = "https://kt-tan.github.io/desa/"
+languageCode = "zh-tw"
+title = "Desa"
+theme = "mainroad"
+
+[Params]
+  description = ""
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist"]
