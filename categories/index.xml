@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Desa</title>
+    <link>https://kt-tan.github.io/desa/categories/</link>
+    <description>Recent content in Categories on Desa</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kt-tan.github.io/desa/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La-Vie-Quotidienne</title>
+      <link>https://kt-tan.github.io/desa/categories/la-vie-quotidienne/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/categories/la-vie-quotidienne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desassossego</title>
+      <link>https://kt-tan.github.io/desa/categories/desassossego/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/categories/desassossego/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading-Notes</title>
+      <link>https://kt-tan.github.io/desa/categories/reading-notes/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/categories/reading-notes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

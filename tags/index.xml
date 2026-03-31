@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Desa</title>
+    <link>https://kt-tan.github.io/desa/tags/</link>
+    <description>Recent content in Tags on Desa</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kt-tan.github.io/desa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La-Vie-Quotidienne</title>
+      <link>https://kt-tan.github.io/desa/tags/la-vie-quotidienne/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/la-vie-quotidienne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quotidienne</title>
+      <link>https://kt-tan.github.io/desa/tags/quotidienne/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/quotidienne/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desassossego</title>
+      <link>https://kt-tan.github.io/desa/tags/desassossego/</link>
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/desassossego/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>https://kt-tan.github.io/desa/tags/reading/</link>
+      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading-Notes</title>
+      <link>https://kt-tan.github.io/desa/tags/reading-notes/</link>
+      <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/reading-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sound</title>
+      <link>https://kt-tan.github.io/desa/tags/sound/</link>
+      <pubDate>Wed, 27 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://kt-tan.github.io/desa/tags/sound/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
