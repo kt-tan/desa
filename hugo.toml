@@ -2,6 +2,7 @@ baseURL = "https://kt-tan.github.io/desa/"
 languageCode = "zh-tw"
 title = "Desa"
 theme = "mainroad"
+canonifyURLs = true
 
 [Params]
   description = ""
