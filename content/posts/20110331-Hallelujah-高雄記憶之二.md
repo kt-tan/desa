@@ -7,7 +7,7 @@ source_url: https://desassossego.net/?p=68
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
+
 ---
 
 忘記在哪看到過的，某網友的評語：唱什麼都好，拜託，千萬別再唱 Hallelujah 了。

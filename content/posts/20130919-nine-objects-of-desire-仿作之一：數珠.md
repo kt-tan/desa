@@ -7,7 +7,7 @@ source_url: https://desassossego.net/?p=85
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
+
 ---
 
 迎面而來的外國女子頸子上一串數珠，繞了兩圈。她經過我身旁許久，氣味還是留著。我自然明白，那氣味是人工的。

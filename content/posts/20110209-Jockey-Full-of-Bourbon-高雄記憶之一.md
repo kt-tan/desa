@@ -7,8 +7,8 @@ source_url: https://desassossego.net/?p=63
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
   - quotidienne
+
 ---
 
 好像最後一天要晚餐前後吧，順手在 twitter 上記了一則，「像之前的周四周五傍晚一樣，走文橫一路，到 Hido 吃兩個三明治當晚餐，再到仁智街的小七喝杯咖啡。然後，耳機戴上，再走文橫一路回教室準備上課」。

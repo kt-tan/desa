@@ -7,8 +7,8 @@ source_url: https://desassossego.net/?p=66
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
   - quotidienne
+
 ---
 
 門把上的叮噹響起，有人推開外頭的大門走了進來。我並不急著去張望那是誰。一會兒之後，我拉開門簾瞧了瞧。嗯，是她。這一次她還是遲到，而且只有她自己來。

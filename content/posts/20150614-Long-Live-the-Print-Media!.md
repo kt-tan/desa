@@ -7,8 +7,8 @@ source_url: https://desassossego.net/?p=13
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
   - quotidienne
+
 ---
 
 多少人讚嘆油墨特有的氣味，撫摸紙張時難以言傳的觸感。的確，傳統印刷媒體的長處，是數位化的內容怎麼樣也比不上的！

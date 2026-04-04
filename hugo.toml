@@ -1,14 +1,37 @@
 baseURL = "https://kt-tan.github.io/desa/"
 languageCode = "zh-tw"
-title = "Desa"
-theme = "mainroad"
+title = "dessassossego"
+theme = "PaperMod"
 canonifyURLs = true
+paginate = 5
 
 [Params]
-  description = ""
+  assets.favicon = "/desa/favicon.svg"
+  description = "bông-bông-biáu-biáu"
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
 
-[Params.sidebar]
-  home = "right"
-  list = "right"
-  single = "right"
-  widgets = ["search", "recent", "categories", "taglist"]
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menus.main]]
+  name = "search"
+  url = "/desa/search/"
+  weight = 0
+
+[[menus.main]]
+  name = "categories"
+  url = "/desa/categories/"
+  weight = 1
+
+[[menus.main]]
+  name = "archive"
+  url = "/desa/archive/"
+  weight = 2

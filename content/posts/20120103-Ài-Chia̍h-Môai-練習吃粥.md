@@ -7,7 +7,7 @@ source_url: https://desassossego.net/?p=91
 categories:
   - la-vie-quotidienne
 tags:
-  - la-vie-quotidienne
+
 ---
 
 吃[粥](http://en.wikipedia.org/wiki/Congee)好處多，很多亞洲人都知道（英語的 congee 這個字，就是從 Tamil 的 kañci 而來）。佛典裡也有「粥有十利，饒益行人，果報無邊，究竟常樂」的相關記載（「色力壽樂辭清辯，宿食風除饑渴消」，[《摩訶僧祇律》](http://cbeta.org/result/normal/T22/1425_029.htm)）。
