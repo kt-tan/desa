@@ -56,9 +56,6 @@
     <loc>https://kt-tan.github.io/desa/2022-02-27/</loc>
     <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kt-tan.github.io/desa/tags/la-vie-quotidienne/</loc>
-    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kt-tan.github.io/desa/2022-02-11/</loc>
     <lastmod>2022-02-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -379,5 +376,9 @@
   </url><url>
     <loc>https://kt-tan.github.io/desa/1999-09-06/</loc>
     <lastmod>1999-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kt-tan.github.io/desa/archive/</loc>
+  </url><url>
+    <loc>https://kt-tan.github.io/desa/search/</loc>
   </url>
 </urlset>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Desa</title>
+    <title>Categories on dessassossego</title>
     <link>https://kt-tan.github.io/desa/categories/</link>
-    <description>Recent content in Categories on Desa</description>
+    <description>Recent content in Categories on dessassossego</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
