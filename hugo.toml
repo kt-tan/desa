@@ -6,7 +6,7 @@ canonifyURLs = true
 paginate = 5
 
 [Params]
-  assets.favicon = "/desa/favicon.svg"
+  assets.favicon = "/favicon.svg"
   description = "bông-bông-biáu-biáu"
   defaultTheme = "auto"
   ShowReadingTime = false
@@ -23,15 +23,15 @@ paginate = 5
 
 [[menus.main]]
   name = "search"
-  url = "/desa/search/"
+  url = "/search/"
   weight = 0
 
 [[menus.main]]
   name = "categories"
-  url = "/desa/categories/"
+  url = "/categories/"
   weight = 1
 
 [[menus.main]]
   name = "archive"
-  url = "/desa/archive/"
+  url = "/archive/"
   weight = 2
