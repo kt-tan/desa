@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on dessassossego</title>
-    <link>http://localhost:1314/desa/tags/</link>
+    <link>http://localhost:1314/tags/</link>
     <description>Recent content in Tags on dessassossego</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1314/desa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gould</title>
-      <link>http://localhost:1314/desa/tags/gould/</link>
+      <link>http://localhost:1314/tags/gould/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/gould/</guid>
+      <guid>http://localhost:1314/tags/gould/</guid>
       <description></description>
     </item>
     <item>
       <title>Schiff</title>
-      <link>http://localhost:1314/desa/tags/schiff/</link>
+      <link>http://localhost:1314/tags/schiff/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/schiff/</guid>
+      <guid>http://localhost:1314/tags/schiff/</guid>
       <description></description>
     </item>
     <item>
       <title>Quotidienne</title>
-      <link>http://localhost:1314/desa/tags/quotidienne/</link>
+      <link>http://localhost:1314/tags/quotidienne/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/quotidienne/</guid>
+      <guid>http://localhost:1314/tags/quotidienne/</guid>
       <description></description>
     </item>
     <item>
       <title>Desassossego</title>
-      <link>http://localhost:1314/desa/tags/desassossego/</link>
+      <link>http://localhost:1314/tags/desassossego/</link>
       <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/desassossego/</guid>
+      <guid>http://localhost:1314/tags/desassossego/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>http://localhost:1314/desa/tags/reading/</link>
+      <link>http://localhost:1314/tags/reading/</link>
       <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/reading/</guid>
+      <guid>http://localhost:1314/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading-Notes</title>
-      <link>http://localhost:1314/desa/tags/reading-notes/</link>
+      <link>http://localhost:1314/tags/reading-notes/</link>
       <pubDate>Sat, 14 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/reading-notes/</guid>
+      <guid>http://localhost:1314/tags/reading-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Sound</title>
-      <link>http://localhost:1314/desa/tags/sound/</link>
+      <link>http://localhost:1314/tags/sound/</link>
       <pubDate>Wed, 27 Oct 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/desa/tags/sound/</guid>
+      <guid>http://localhost:1314/tags/sound/</guid>
       <description></description>
     </item>
   </channel>
