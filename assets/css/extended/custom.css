@@ -103,6 +103,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-content hr {
     height: 1px;
-    background: var(--border);
+    background: #e0e0de;
     border: 0;
 }
