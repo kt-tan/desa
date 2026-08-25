@@ -100,3 +100,9 @@ h1, h2, h3, h4, h5, h6 {
     border-top: 1px solid #e0e0de;
     margin: 48px 0;
 }
+
+.post-content hr {
+    height: 1px;
+    background: var(--border);
+    border: 0;
+}
