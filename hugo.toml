@@ -5,6 +5,9 @@ theme = "PaperMod"
 canonifyURLs = true
 paginate = 5
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [Params]
   assets.favicon = "/favicon.svg"
   description = "bông-bông-biáu-biáu"
